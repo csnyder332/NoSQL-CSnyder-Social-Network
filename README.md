@@ -12,7 +12,6 @@
   - [Installation](#installation)
   - [Usage](#usage)
   - [Contribute](#contribute)
-  - [Features](#features)
   - [Tests](#tests)
   - [questions?](#Questions)
   - [License](#license)
@@ -32,7 +31,7 @@
   
 
   ## Tests
-  
+  Tested routes using Insomnia
 
   ## Questions?
   
