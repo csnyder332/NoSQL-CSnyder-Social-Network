@@ -12,21 +12,16 @@
   - [Installation](#installation)
   - [Contribute](#contribute)
   - [Tests](#tests)
-  - [questions?](#Questions)
   - [License](#license)
+  - [Links](#links)
   
   ## Installation
   Install MongoDB, mongoose, express
-
-  ## Usage
   
 
   ## Contribute
   [Contributor Covenant](https://www.contributor-covenant.org/)
   Chris Snyder
-
-
-  ## Features
   
 
   ## Tests
@@ -39,4 +34,8 @@
 
   ## License
   ![NPM](https://img.shields.io/npm/l/inquirer)
+  
+  ## Links
+  
+  Link to walkthrough: https://drive.google.com/file/d/1uG4sSuNQJfbx3lET8IpZBcsai9HMaVgo/view  
   
