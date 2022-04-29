@@ -10,7 +10,6 @@
 
   - [Description](#description)
   - [Installation](#installation)
-  - [Usage](#usage)
   - [Contribute](#contribute)
   - [Tests](#tests)
   - [questions?](#Questions)
